@@ -1,4 +1,4 @@
-# create_multiple_dirs_files
+# Create_multiple_dirs_files
 To create multiple directories and files with custom names provided by the user
 
 🌟 This script allows you to insert content into specific files within specific directories, you can add additional prompts to ask the user for the directory and file name, as well as the content to be added. Here's how you can modify the script:
